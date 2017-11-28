@@ -23,6 +23,14 @@
   padding: 40px;
   text-shadow: 3px 3px #5c6670;
 }
+media (max-width:991px) {
+.cover-2 h1{
+  font-size: 1.5em;
+  margin-top: 1em;
+  padding: 40px;
+  text-shadow: 2px 2px #5c6670;
+}
+}
 .cover-2 h3{
     color: #005cb9;
     text-transform: capitalize;
