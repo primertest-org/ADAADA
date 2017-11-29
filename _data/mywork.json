@@ -4,28 +4,28 @@
 	"items": [
 		{
 			"title": "Spanish Property Portal",
-			"features": "Four language Specific Sites,Database,Downloads,Admin Backend,JSON Search,Download Library,Bespoke CMS,Bespoke Statc Site Generator",
+			"features": "Four language Specific Sites,Database,Downloads,Admin Backend,JSON Search,Download Library,Bespoke CMS,Bespoke Statc Site Generator, Lead Capture",
 			"description_markdown": "Maxgoldhouse is a site that I constantly work on",
 			"image": "//lh3.googleusercontent.com/-ym3ew2GIVKA/WhbmWcip2BI/AAAAAAAAUzY/LMclRqDrdT8dV-iOaSQVWVjmxqKL1Nb3ACL0BGAs/w600-rj-e30/maxgoldhouse.jpg",
 			"link": "https://maxgoldhouse.com"
 		},
 		{
 			"title": "Regional Inward Investment Portal - Work In Progress",
-			"features": "Static Site, Download, Interactive Map, CLoud based CMS,Bespoke CMS widgets,Data Management,Stageing and Live versions of website",
+			"features": "Static Site, Download, Interactive Map, CLoud based CMS,Bespoke CMS widgets,Data Management,Stageing and Live versions of website, Lead Capture,CRM integration",
 			"description_markdown": "Invest Essex is the inward investment agency for the county of Essex in the United Kingdom.",
 			"image": "//lh3.googleusercontent.com/-jxWPR8cCw_4/WhbcdEnfZeI/AAAAAAAAUuA/t7JHYmMgBUka1kVvgmVB5VBnj9Cb2DLJwCL0BGAs/w600-rj-e30/invessex.jpg",
 			"link": "https://investessexcdn.firebaseapp.com"
 		},
 		{
-			"title": "Greysecond",
-			"features": "Cameras",
-			"description_markdown": "Soul Catcher Parade",
+			"title": "Music and Video Showcase - Greysecond",
+			"features": "Blog, Shop, One page Multimedia Showcase",
+			"description_markdown": "The members of the Greysecond team did not want a simple run of the mill website.",
 			"image": "//lh3.googleusercontent.com/-u8QJGIPoNYk/WhbcYNLyHgI/AAAAAAAAUtk/HAFstiU3Tm4cB4MU9l2p3BM1r-A2-ejZgCL0BGAs/w600-rj-e30/greysecond.jpg",
-			"link": "//lh3.googleusercontent.com/-b41HPuIWUUQ/WdOvr04Y7qI/AAAAAAAATqU/Y8APwyY92FcHzuvEsT-KNiCadxN-1GSOgCLcBGAs/s0-e30/3.jpg"
+			"link": "https://www.greysecond.com"
 		},
 		{
-			"title": "Spice Desk",
-			"features": "Spices",
+			"title": "Clarity Strategies - Inward Investment Marketing Specialists",
+			"features": "Website,Blog,Slideshow embedding,Lead Capture ",
 			"description_markdown": "The Aroma of Far Off Places",
 			"image": "//lh3.googleusercontent.com/-rfBYlnWfsB0/WhbcTp4PlzI/AAAAAAAAUtI/Us0b8TBSoMA25Gu9QxPnX0GMrSn7SoY4wCL0BGAs/w600-rj-e30/Clarity.jpg",
 			"link": "//lh3.googleusercontent.com/-A3C7pXK0pcM/WdOvsVVdyzI/AAAAAAAATqg/6VlquhwskcMq1t4h6ndzzqj_X78MQ2BbACLcBGAs/s0-e30/4.jpg"
