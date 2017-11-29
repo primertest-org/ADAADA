@@ -11,8 +11,8 @@
 		},
 		{
 			"title": "Regional Inward Investment Portal - Work In Progress",
-			"features": "Static Site, Download, Interactive Map, CMS, Bespoke CMS widgets,Data Management",
-			"description_markdown": "Invest Essex",
+			"features": "Static Site, Download, Interactive Map, CLoud based CMS,Bespoke CMS widgets,Data Management,Stageing and Live versions of website",
+			"description_markdown": "Invest Essex is the inward investment agency for the county of Essex in the United Kingdom.",
 			"image": "//lh3.googleusercontent.com/-jxWPR8cCw_4/WhbcdEnfZeI/AAAAAAAAUuA/t7JHYmMgBUka1kVvgmVB5VBnj9Cb2DLJwCL0BGAs/w600-rj-e30/invessex.jpg",
 			"link": "https://investessexcdn.firebaseapp.com"
 		},
