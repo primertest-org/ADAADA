@@ -1,0 +1,69 @@
+{
+	"title": "Our Work Showcase",
+	"sub-title": "Stuff that made our clients happy",
+	"items": [
+		{
+			"title": "Spanish Property Portal",
+			"features": "Four language Specific Sites,Database,Downloads,Admin Backend,JSON Search,Download Library,Bespoke CMS,Bespoke Statc Site Generator",
+			"descrition_markdown": "Maxgoldhouse",
+			"image": "//lh3.googleusercontent.com/-ym3ew2GIVKA/WhbmWcip2BI/AAAAAAAAUzY/LMclRqDrdT8dV-iOaSQVWVjmxqKL1Nb3ACL0BGAs/w600-rj-e30/maxgoldhouse.jpg",
+			"link": "https://maxgoldhouse.com"
+		},
+		{
+			"title": "Regional Inward Investment Portal - Work In Progress",
+			"features": "Static Site, Download, Interactive Map, CMS, Bespoke CMS widgets,Data Management",
+			"caption-title": "Invest Essex",
+			"image": "//lh3.googleusercontent.com/-jxWPR8cCw_4/WhbcdEnfZeI/AAAAAAAAUuA/t7JHYmMgBUka1kVvgmVB5VBnj9Cb2DLJwCL0BGAs/w600-rj-e30/invessex.jpg",
+			"link": "https://investessexcdn.firebaseapp.com"
+		},
+		{
+			"title": "Greysecond",
+			"features": "Cameras",
+			"descrition_markdown": "Soul Catcher Parade",
+			"image": "//lh3.googleusercontent.com/-u8QJGIPoNYk/WhbcYNLyHgI/AAAAAAAAUtk/HAFstiU3Tm4cB4MU9l2p3BM1r-A2-ejZgCL0BGAs/w600-rj-e30/greysecond.jpg",
+			"link": "//lh3.googleusercontent.com/-b41HPuIWUUQ/WdOvr04Y7qI/AAAAAAAATqU/Y8APwyY92FcHzuvEsT-KNiCadxN-1GSOgCLcBGAs/s0-e30/3.jpg"
+		},
+		{
+			"title": "Spice Desk",
+			"features": "Spices",
+			"descrition_markdown": "The Aroma of Far Off Places",
+			"image": "//lh3.googleusercontent.com/-rfBYlnWfsB0/WhbcTp4PlzI/AAAAAAAAUtI/Us0b8TBSoMA25Gu9QxPnX0GMrSn7SoY4wCL0BGAs/w600-rj-e30/Clarity.jpg",
+			"link": "//lh3.googleusercontent.com/-A3C7pXK0pcM/WdOvsVVdyzI/AAAAAAAATqg/6VlquhwskcMq1t4h6ndzzqj_X78MQ2BbACLcBGAs/s0-e30/4.jpg"
+		},
+		{
+			"title": "Salt Cod Rule",
+			"features": "Tools",
+			"descrition_markdown": "Measure Cod with Rule",
+			"image": "//lh3.googleusercontent.com/-BiZBpojHCTY/Whbcki8fPhI/AAAAAAAAUuY/5VpQzA74SFow0GgAaWh0u5jAFQOzLNCEgCL0BGAs/w600-rj-e30/logisticshubuk.jpg",
+			"link": "//lh3.googleusercontent.com/-EVBYvgiI1_4/WdOvsfL8cpI/AAAAAAAATqc/WXE3HnCurm8rc4eCzfAVeIYXzG-sPysvwCLcBGAs/s0-e30/5.jpg"
+		},
+		{
+			"title": "Steevdore Stuff",
+			"features": "Working Life",
+			"descrition_markdown": "A Life of Sweat and Blood from Times Gone By",
+			"image": "//lh3.googleusercontent.com/-SRdWlwHCH5o/Whbc_laj6wI/AAAAAAAAUwc/St9KT9pqIZwOpj5AKRIl2Tdo-vp373xTwCL0BGAs/w600-rj-e30/theorthophysios.jpg",
+			"link": "//lh3.googleusercontent.com/-I4l4PPtTD4I/WdOvs64eHvI/AAAAAAAATqk/rth2NktKGeEw4M4sZt3J8a9eTVWRCqhnwCLcBGAs/s0-e30/6.jpg"
+		},
+		{
+			"title": "",
+			"features": "",
+			"descrition_markdown": "",
+			"image": "//lh3.googleusercontent.com/-Pax2DeJukqI/Whbcq-7dnSI/AAAAAAAAUuw/3JAdA-6aF2IzaqxIDZqRoRiNQXafhRQ4wCL0BGAs/w600-rj-e30/virginia.jpg",
+			"link": ""
+		},
+		{
+			"title": "",
+			"features": "",
+			"descrition_markdown": "",
+			"image": "//lh3.googleusercontent.com/-QP8_ROr6Se0/Whbc3JHR3mI/AAAAAAAAUvk/h6PkCMvjg6oLR4pt1_theVH3ZPtTgg8kQCL0BGAs/w600-rj-e30/primershama.jpg",
+			"link": ""
+		},
+		{
+			"title": "",
+			"features": "",
+			"descrition_markdown": "",
+			"image": "//lh3.googleusercontent.com/-lACSB3RjbrQ/Whbc7AvuQFI/AAAAAAAAUwA/U3q-RqUy1q8ZxndkTFA7rVKXj2BABGZvgCL0BGAs/w600-rj-e30/shamayoga.jpg",
+			"link": ""
+		}
+	]
+}
