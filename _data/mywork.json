@@ -12,7 +12,7 @@
 		{
 			"title": "Regional Inward Investment Portal - Work In Progress",
 			"features": "Static Site, Download, Interactive Map, CLoud based CMS,Bespoke CMS widgets,Data Management,Stageing and Live versions of website, Lead Capture,CRM integration",
-			"description_markdown": "Invest Essex is the inward investment agency for the county of Essex in the United Kingdom. The Invest Essex team wanted a CMS which would allow them to manage various content types as well as the option to easily add new content types. The limits of their current CMS does not allow this.",
+			"description_markdown": "Invest Essex is the inward investment agency for the county of Essex in the United Kingdom. The Invest Essex team wanted a CMS which would allow them to manage various content types as well as the option to easily add new content types. The limits of their current CMS does not allow this. By moving images to a separate Distribution Network both build time and website page load times have improved by 80%.",
 			"image": "//lh3.googleusercontent.com/-jxWPR8cCw_4/WhbcdEnfZeI/AAAAAAAAUuA/t7JHYmMgBUka1kVvgmVB5VBnj9Cb2DLJwCL0BGAs/w600-rj-e30/invessex.jpg",
 			"link": "https://investessexcdn.firebaseapp.com"
 		},
