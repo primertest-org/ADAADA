@@ -5,14 +5,14 @@
 		{
 			"title": "Spanish Property Portal",
 			"features": "Four language Specific Sites,Database,Downloads,Admin Backend,JSON Search,Download Library,Bespoke CMS,Bespoke Statc Site Generator, Lead Capture",
-			"description_markdown": "Maxgoldhouse is a site that I constantly work on",
+			"description_markdown": "Maxgoldhouse is an estate agent with offices in Spain, Belgium. Germany and the UK. Four static websites (English, French, German and Dutch) are generated from a central database. Once built the websites are transferred to 4 separate live servers.&nbsp; An admin application allows management of the property database and a bespoke system for generating personalised response emails to enquiries.",
 			"image": "//lh3.googleusercontent.com/-ym3ew2GIVKA/WhbmWcip2BI/AAAAAAAAUzY/LMclRqDrdT8dV-iOaSQVWVjmxqKL1Nb3ACL0BGAs/w600-rj-e30/maxgoldhouse.jpg",
 			"link": "https://maxgoldhouse.com"
 		},
 		{
 			"title": "Regional Inward Investment Portal - Work In Progress",
 			"features": "Static Site, Download, Interactive Map, CLoud based CMS,Bespoke CMS widgets,Data Management,Stageing and Live versions of website, Lead Capture,CRM integration",
-			"description_markdown": "Invest Essex is the inward investment agency for the county of Essex in the United Kingdom.",
+			"description_markdown": "Invest Essex is the inward investment agency for the county of Essex in the United Kingdom. The Invest Essex team wanted a CMS which would allow them to manage various content types as well as the option to easily add new content types. The limits of their current CMS does not allow this.",
 			"image": "//lh3.googleusercontent.com/-jxWPR8cCw_4/WhbcdEnfZeI/AAAAAAAAUuA/t7JHYmMgBUka1kVvgmVB5VBnj9Cb2DLJwCL0BGAs/w600-rj-e30/invessex.jpg",
 			"link": "https://investessexcdn.firebaseapp.com"
 		},
@@ -25,7 +25,7 @@
 		},
 		{
 			"title": "Clarity Strategies - Inward Investment Marketing Specialists",
-			"features": "Website,Blog,Slideshow embedding,Lead Capture ",
+			"features": "Website,Blog,Slideshow embedding,Lead Capture",
 			"description_markdown": "The Aroma of Far Off Places",
 			"image": "//lh3.googleusercontent.com/-rfBYlnWfsB0/WhbcTp4PlzI/AAAAAAAAUtI/Us0b8TBSoMA25Gu9QxPnX0GMrSn7SoY4wCL0BGAs/w600-rj-e30/Clarity.jpg",
 			"link": "//lh3.googleusercontent.com/-A3C7pXK0pcM/WdOvsVVdyzI/AAAAAAAATqg/6VlquhwskcMq1t4h6ndzzqj_X78MQ2BbACLcBGAs/s0-e30/4.jpg"
