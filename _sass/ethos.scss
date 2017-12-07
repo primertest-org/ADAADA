@@ -1,7 +1,11 @@
 #ethos {
     background-color: #fff;
     color: #1a6dc0;
-    
+ @media (min-width:1200px) {
+ .container {
+  max-width:800px;
+ }
+}
 
   p {
     font-family: TimesNewRoman, 'Times New Roman', Times, Baskerville, Georgia, serif;
@@ -9,7 +13,6 @@
     font-weight: 100;
     margin-bottom: 12px;
     line-height: 1.5;
-    width: 60%;
   }
   h3{
       margin: 0 auto 1.2rem auto;
