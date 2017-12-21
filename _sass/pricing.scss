@@ -11,7 +11,7 @@ h2 {
     font-weight: 700;
 }
 .container{
-         max-width: 800px;
+        
 }
     .features {
     padding: 50px 0;
@@ -44,12 +44,17 @@ h2 {
     margin-bottom: 20px;
 }
 p {
+    max-width: 800px;
     color: #7d8285;
     font-family: TimesNewRoman,'Times New Roman',Times,Baskerville,Georgia,serif;
     font-size: 20px;
     font-weight: 100;
     margin-bottom: 12px;
     line-height: 1.5;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
 
 }
 .glyphicon {
